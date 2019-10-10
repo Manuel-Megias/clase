@@ -1,0 +1,61 @@
+Preguntas. Manuel Megias Briones.
+
+1- ¿Como se llama el sistema que garantiza la coherencia de lo datos almacenados?
+	a)SQL
+	b)SGBDR**
+	c)ABD
+	d)CMD
+
+2- ¿Como se llama la capacidad de SQL para aprovechar las capacidades de la arquitectura multiprocesador?
+	a)Tratamientos en paralelo.**
+	b)Active Directory.
+	c)Analizador de rendimientos.
+	d)Lectura bidireccional.
+
+3- Los 2 tipos de bases de datos que puede gestionar SQL son:
+	a)OLTP y GBD.
+	b)OLTP y OLAP.**
+	c)OLTP y JDBC.
+	d)OLAP y ASPX.
+
+4- El Middle ware tiene como objetivo:
+	a)Liberar recursos a nivel de servidor.
+	b)Centralizacion y flexibilizacion de actualizaciones.
+	c)Disminuir los recursos utilizados por el cliente y el servidor.**
+	d)Todas las anteriores.
+
+5- ¿En que idioma deben estar escritas las peticiones que provienen de los clientes hacia el servidor?
+	a)Transact-SQL**
+	b)Java
+	c)FORTRAN
+	d)Inglés
+
+6- Microsoft Full Text Search es:
+	a)Un componente servidor.**
+	b)Una herramienta de gestion.
+	c)Un Service Reporter.
+	d)Una plataforma servidor.
+
+7- Las tareas de administracion se llevan a cabo utilizando, ¿que herramientas?
+	a)De gestion.**
+	b)De analisis.
+	c)De servicion.
+	d)De reportes.
+
+8- ¿Que significan las siglas CLR?
+	a)Changes List Running.
+	b)Common Lenguage Runtime.**
+	c)Control Length Routine.
+	d)Ninguna es correcta.
+
+9-¿Para que son usados los puntos de destino https?
+	a)Desarrollo de aplicaciones web.
+	b)Mandar paquetes de datos a clientes.
+	c)Importar y Exportar datos entre servidores.
+	d)Albergar servicios y facilitar la integracion.**
+
+10-¿Cual de las siguientes no es una herramienta de gestion?
+	a)SQL Server Service Broker.**
+	b)Database Engine Tuning Advisor.
+	c)SQL Server Profiler.
+	d)SQL Server Management Studio. 

@@ -1,0 +1,111 @@
+0. INTRODUCCION
+	0.Informacion
+	1.Prólogo1
+	2.Prólogo2
+	3.Por qué utilizar scrip13.Formateo de la vistats
+	4.Histórico de los languajes de script
+	5.Interés de los scripts en relación a los lenguajes de programación
+	6.En resumen
+1.Descubra Power shell
+	7.Presentación de PowerShell
+	8.Instalación de PowerShell
+	9.Primeros pasos
+	10.Una transición respetuosa con el pasado
+	11.Los comandos básicos
+	12.Navegación por los directorios y archivos
+	13.Formateo de la vista
+	14.Reglas a conocer
+2. Fundamentos
+	15.Las variables y las constantes
+	16.Los alias
+	17.Tablas
+	18.Tablas asociativas
+	19.Redirecciones y Tuberías
+	20.Los bucles (While, For y Foreach)
+	21.Estructura condicional If, Else, ElseIf
+	22.Switch
+	23.Las funciones
+	24.Utilización de los argumentos
+	25.Utilización de los parámetros
+	26.Creación de objetos personalizados
+	27.El ámbito de las variables
+	28.El DotSourcing
+	29.Las funciones avanzadas
+3.Control del shell
+	30.Personalizar PowerShell modificando su perfil
+	31.Adición de métodos y propiedades personalizadas
+	32.Formateo de la vista y personalización
+	33.La gestión de archivos
+	34.Las fechas
+	35.Internacionalización de los scripts
+	36.Objetos PSBase y PSObject
+	37.Los jobs en segundo plano Start-Job, Receive-Job, Remove-Job
+	38.Snap-Ins y módulos
+4.Gestion de los errores y depuracion	
+	39.Introducción a la gestión de los errores y a la depuración
+	40.La gestión de los errores
+	41.Los errores no críticos
+	42.Los errores críticos
+	43.La depuración
+	44.Requisitos previos de ejecución de un script
+5.La seguridad
+	45.La seguridad Para quién Por qué
+	46.Los riesgos ligados al scripting
+	47.Optimizar la seguridad PowerShell
+	48.Firma de Scripts
+	49.Gestionar las políticas de ejecución de PowerShell vía directivas de grupo
+6.Introducción a .NET
+	50.Introducción a .NET
+	51.El Framework .NET.pdf
+	51.El Framework .NET.pdf
+	53.Manipular los objetos .NET
+	54.Crear interfaces gráficas
+7. Objetos COM
+	54.Introducción a la tecnología COM
+	55.COM, los Orígenes
+	56.Manipular objetos COM
+	57.Actuar en aplicaciones con COM
+8. Windows Management Instrumentation (WMI)
+	58.Introducción
+	59.¿Qué es WMI
+	60.Arquitectura WMI
+	61.Un poco de vocabulario
+	62.Descubra las clases
+	63.Primeros pasos en la escritura de scripts WMI
+	64.Monitorización de recursos con la administración de eventos
+9. Ejecucion remota
+	65.Introducción
+	66.Comunicaciones remotas de Framework .NET 2.0
+	67.Comunicaciones remotas Windows PowerShell
+	68.Comunicaciones remotas WSMANWinRM con WMI
+10. Manipulacion de objetos de directorio con ADSI
+	69.Descubriendo ADSI
+	70.Consideraciones sobre la administración de un dominio Active Directory con ADSI
+	71.Manipulación de la base de datos de cuentas local
+	72.Active Directory Domain Services
+11. Módulo Active Directory de Windows Server 2008 R2
+	73.Presentación
+	74.Inicio del módulo
+	75.El proveedor Active Directory
+	76.El conjunto de comandos del módulo Active Directory
+12. Estudios de caso
+	77.Encontrar las cuentas de equipos caducadas en AD DS
+	78.Listar las cuentas de usuarios inactivos en AD DS
+	79.Cambiar la contraseña del Administrador local en remoto
+	80.Monitorizar la llegada de un evento al registro
+	81.Crear cuentas de usuarios de forma masiva
+	82.Verificar la versión de software de una aplicación en remoto
+	83.Actualización de la configuración de red de un conjunto de equipos
+13. Recursos complementarios
+	84.Recursos Web externos
+	85.Utilidades de terceros
+14. Conclusión
+	86.Conclusión
+15. Anexos
+	87.Anexo 1 Lista de los comandos PowerShell v1
+	88.Anexo 2 Lista de comandos PowerShell v2
+	89.Anexo 3 Lista de comandos del módulo de Active Directory
+	90.Anexo 4 Lista de los alias
+	91.Anexo 5 Lista de las funciones
+	92.Anexo 6 Lista de las fuentes de trace (Get-Tracesource)
+	

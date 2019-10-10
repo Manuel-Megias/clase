@@ -1,0 +1,11 @@
+Enviar la ficha de alumno a la dirección de e-mail:
+karolus.martin+sri-A-2019@gmail.com
+
+
+El archivo adjunto de la ficha de alumno los renombráis como:
+Apellido1 Apellido2, Nombre SRI-A-2019.doc
+
+
+En el mensaje de correo, en el asunto (subject), usar 
+vuestro nombre con el formato: 
+Apellido1 Apellido2, Nombre

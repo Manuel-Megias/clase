@@ -1,0 +1,15 @@
+1-CIDAN
+	-Confidencialidad, es la propiedad protege que los datos entre un emisor y un destinatario que asegura que 		solo los usuarios autorizados puedan acceder a ellos, actualmente es uno de los objetivos de muchos 		criptosistemas.
+	Se ataca con el uso de spyware o con ataques MITM.
+	
+	-Integridad, es la propiedad que asegura que los datos sean correctos y completos, existen varios tipos de 		integridades: de dominio, de entidad o referencial.
+	Los ataques por inyeccion de codigo los cuales modifican consultas o parametros. 
+
+	-Disponibilidad, garantiza que los usuarios autorizados puedan acceder a los datos y a la informacion de 		forma rapida, sencilla, y segura en el momento que lo necesiten.
+	Se ataca con flooding.
+
+	-Autentificacion, se asegura de que la identidad del usuario es correcta, en esto existen 2 partes, el 			probador (que se identifica) y el verificador (que identifica).
+	Se ataca con ciertos modos de spoofing.
+
+	-No repudio, sirve para que tanto el origen como el destino se hayan asegurado de haber enviado y o recibido 	la informacion sin posibilidad de negarlo.
+	Falsificador de firma digital seria una forma de atacar esta propiedad.
