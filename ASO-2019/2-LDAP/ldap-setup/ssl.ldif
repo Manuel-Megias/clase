@@ -1,0 +1,9 @@
+dn: cn=config
+add: olcTLSCACertificateFile
+olcTLSCACertificateFile: /etc/ssl/certs/ieszv-ca.cert
+-
+add: olcTLSCertificateFile
+olcTLSCertificateFile: /etc/ssl/certs/ldap.cert
+-
+add: olcTLSCertificateKeyFile
+olcTLSCertificateKeyFile: /etc/ssl/private/ldap.key

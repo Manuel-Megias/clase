@@ -1,0 +1,113 @@
+# Create top-level object in domain
+dn:  dc=aula209,dc=ieszv,dc=es
+objectClass: top
+objectClass: dcObject
+objectclass: organization
+o: aula209 Organization
+dc: aula209
+description: Ejemplo LDAP aula209
+
+# Admin user.
+dn: cn=admin,dc=aula209,dc=ieszv,dc=es
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: admin
+description: LDAP administrator
+userPassword: admin
+
+# Usuarios
+dn: ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: organizationalUnit
+ou: users
+
+dn: cn=joel,ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: posixAccount
+objectClass: person
+cn: joel
+gidNumber: 10001
+homeDirectory: /home/joel
+loginShell: /bin/bash
+sn: joel
+uid: joel
+uidNumber: 10005
+userPassword: joel
+
+dn: cn=javier,ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: posixAccount
+objectClass: person
+objectClass: top
+cn: javier
+gidNumber: 10001
+homeDirectory: /home/javier
+sn: francisco
+uid: francisco
+uidNumber: 10001
+userPassword: javier
+
+dn: cn=joaquin,ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: posixAccount
+objectClass: person
+objectClass: top
+cn: joaquin
+gidNumber: 10002
+homeDirectory: /home/joaquin
+sn: joaquin
+uid: joaquin
+uidNumber: 10002
+userPassword: joaquin
+
+dn: cn=miguel,ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: posixAccount
+objectClass: person
+objectClass: top
+cn: miguel
+gidNumber: 10002
+homeDirectory: /home/miguel
+sn: miguel
+uid: miguel
+uidNumber: 10003
+userPassword: miguel
+
+dn: cn=jessica,ou=users,dc=aula209,dc=ieszv,dc=es
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: posixAccount
+objectClass: person
+objectClass: top
+cn: jessica
+gidNumber: 10001
+homeDirectory: /home/jessica
+sn: jessica
+uid: jessica
+uidNumber: 10004
+userPassword: jessica
+
+# Grupos
+dn: ou=groups,dc=aula209,dc=ieszv,dc=es
+objectClass: organizationalUnit
+ou: groups
+
+dn: cn=alumnos,ou=groups,dc=aula209,dc=ieszv,dc=es
+objectClass: posixGroup
+objectClass: top
+cn: alumnos
+gidNumber: 10001
+memberUid: 10001
+memberUid: 10004
+memberUid: 10005
+
+dn: cn=profesores,ou=groups,dc=aula209,dc=ieszv,dc=es
+objectClass: posixGroup
+objectClass: top
+cn: profesores
+gidNumber: 10002
+memberUid: 10003
+memberUid: 10002

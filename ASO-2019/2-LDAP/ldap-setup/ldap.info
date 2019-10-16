@@ -1,0 +1,6 @@
+organization = Swearing at Computers
+
+cn = ldap.swearing.com 
+tls_www_server 
+encryption_key 
+signing_key
