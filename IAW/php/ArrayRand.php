@@ -7,7 +7,7 @@
 <body>
     <?php
     for($x=0; $x<=9;$x++){
-        $numero=rand(0,100);
+        $numero=rand(3,60);
         $array[$x]=$numero;
     }
     print_r ($array);

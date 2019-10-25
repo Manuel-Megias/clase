@@ -1,0 +1,50 @@
+1-¿Cual de las siguientes ediciones de SQL esta destinada a ser instalada en terminales moviles?
+	a)Express
+	b)Developer
+	c)Compact3.5**
+	d)Standard
+
+2-¿Cual de las estas no es una regla que debe ser respetada por el nombre de instacia?
+	a)Limite de 16 caracteres
+	b)La primera letra debe ser una letra o un _
+	c)No puede ser DEFAULT ni MSSQLSERVER
+	d)Debe tener al menos un numero**
+
+3-¿En que tipos se conservan los datos de tipo Unicode?
+	a)nchar
+	b)char
+	c)nvarchar
+	d)a y c son correctas**
+
+4-¿Cual es la herramienta principal de SQL Server?
+	a)SSMS**
+	b)MSSS
+	c)MYSQL
+	d)SQLC
+
+5-¿A quien esta destinada esta herramienta?
+	a)Desarrolladores y administradores**
+	b)Desarrolladores y usuarios
+	c)Usuarios y administradores
+	d)administradores unicamente
+
+6-SQLCmd y osql tienen en comun...
+	a)Son herramientas graficas.
+	b)Son herramientas en linea de comandos.**
+	c)Sirven para hacer diagnosticos.
+	d)Son herramientas de clonado.
+
+7-Los estados del servicio son: Suspendido, detenido y...
+	a)Iniciado**
+	b)Corriendo
+	c)Apagado
+	d)Hibernando
+
+8-El comando sqlservr.exe sirve para:
+	a)Lanzar un proceso de CHECKPOINT.
+	b)Registrar un servidor.
+	c)Iniciar el servidor SQL Server.
+	d)Entrar a la configuracion del servidor.
+
+9-
+
