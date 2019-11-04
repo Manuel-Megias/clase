@@ -46,5 +46,15 @@
 	c)Iniciar el servidor SQL Server.
 	d)Entrar a la configuracion del servidor.
 
-9-
+9-Para modificar las opciones iniciales e instalar nuevos componentes debe hacerse desde...
+	a)Consola de comandos
+	b)MySQL
+	c)cmd
+	d)Panel de control**
+
+10-¿Que paso es el primero durante la puesta en marcha?
+	a)Crear un catalogo.**
+	b)Crear un indice.
+	c)Definir una lista de palabras irrelevantes.
+	d)Utilizacion de consultas.
 
