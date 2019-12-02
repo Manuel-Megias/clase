@@ -1,0 +1,132 @@
+
+1-Confidencialidad, es la propiedad protege que los datos entre un emisor y un destinatario que asegura que solo los usuarios autorizados puedan acceder a ellos, actualmente es uno de los objetivos de muchos criptosistemas.
+Se ataca con el uso de spyware o con ataques MITM.
+	
+2-Integridad, es la propiedad que asegura que los datos sean correctos y completos, existen varios tipos de integridades: de dominio, de entidad o referencial.
+Los ataques por inyeccion de codigo los cuales modifican consultas o parametros. 
+
+3-Disponibilidad, garantiza que los usuarios autorizados puedan acceder a los datos y a la informacion de forma rapida, sencilla, y segura en el momento que lo necesiten.
+Se ataca con flooding.
+
+4-Autentificacion, se asegura de que la identidad del usuario es correcta, en esto existen 2 partes, el probador (que se identifica) y el verificador (que identifica).
+Se ataca con ciertos modos de spoofing.
+
+5-No repudio, sirve para que tanto el origen como el destino se hayan asegurado de haber enviado y o recibido la informacion sin posibilidad de negarlo.
+Falsificador de firma digital seria una forma de atacar esta propiedad.
+
+6-Encrypting File System (EFS), es un sistema de archivos que, trabajando sobre NTFS, permite cifrado de archivos a nivel de sistema.
+
+7-Malware, cualquier tipo de software malicioso que trata de infectar un ordenador o un dispositivo móvil con multiples finalidades.
+
+8-Rootkit, malware que sustituye los ejecutables binarios del sistema para ocultarse mejor, pudiendo servir de puerta trasera.
+
+9-Puerta trasera, una puerta trasera es una secuencia especial dentro del código de programación, mediante la cual se pueden evitar los sistemas de seguridad del algoritmo para acceder al sistema.
+
+10-System File Checker (SFC), es una utilidad de los sistemas Windows que comprueba la integridad de los archivos 
+de sistema (su contraparte en linux se llama Rootkit Hunter).
+
+11-Auditoria de seguridad, Se trata de un servicio llevado a cabo por profesionales y tiene la finalidad de descubrir posibles vulnerabilidades tras revisiones exhaustivas de software.
+
+12-Exploits, es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad.
+
+13-Interrupcion, es una señal recibida por el procesador de una computadora, para indicarle que debe «interrumpir» el curso de ejecución actual, pueden ser previstas o imprevistas.
+
+14-Amenaza,todo elemento o acción capaz de atentar contra la seguridad de la información, surgen a partir de la existencia de vulnerabilidades.
+
+15-Hacker, Experto o gurú en aspectos técnicos relacionados con la informática que considera que poner la información al alcance de todos constituye un extraordinario bien.
+
+16-Cracker, Seria un hacker pero especializado es acciones con caracter destructivo e ilegal, tambien son llamados hackers black hat.
+
+17-Rogueware, son falsos antivirus o antiespías.
+
+18-Virus: Secuencia de código que se inserta en un fichero ejecutable, de forma que cuando el archivo se ejecuta, el virus también lo hace.
+
+19-Gusano, programa capaz de ejecutarse y propagarse por sí mismo a través de redes, normalmente mediante correo electrónico basura o spam.
+
+20-Troyanos, aplicaciones con instrucciones escondidas de forma que éste parezca 
+realizar las tareas que un usuario espera de él, pero que realmente ejecute funciones ocultas.
+
+21-Programas conejo, programas que no hacen nada útil, simplemente se dedican a reproducirse hasta que el número de copias acaba con los recursos del sistema.
+
+22-Canales cubiertos, canales de comunicación que permiten a un proceso transferir información de forma que viole la política de seguridad del sistema.
+
+23-Ingeniería social, obtener información confidenciales a través de la manipulación y la confianza de usuarios legítimos.
+
+24-Scam, estafa electrónica por medio del engaño como donaciones, transferencias...
+
+25-Sniffing, rastrear monitorizando el tráfico de una red para hacerse con información confidencial.
+
+26-Spoofing, suplantación de identidad o falsificación.
+
+27-Pharming, redirigir un nombre de dominio a otra máquina distinta falsificada y 
+fraudulenta.
+
+28-Phishing, estafa basada en la suplantación de identidad y la ingeniería social para adquirir acceso a cuentas bancarias o comercio electrónico ilícito.
+
+29-Password cracking, descifrar contraseñas de sistemas y comunicaciones.
+
+30-Botnet, conjunto de robots informáticos o bots, que se ejecutan de manera autónoma y automática en multitud de host para controlarlos.
+
+31-Denegación de servicio, causar que un servicio o recurso sea inaccesible a los usuarios legítimos.
+
+32-Test de intrusión, tipo de auditoria en la que se intenta acceder a los sistemas, para comprobar el nivel de resistencia a la intrusión no deseada.
+
+33-Análisis forense, análisis posterior de incidentes, mediante el cual se trata de reconstruir cómo se ha penetrado en el sistema.
+
+34-Seguridad física, trata de proteger el hardware, teniendo en cuenta entre otros aspectos la ubicación y las amenazas de tipo físico
+
+35-Seguridad lógica, protege el software tanto a nivel de sistema operativo como de aplicación, sin perder nunca de vista el elemento fundamental a proteger, la información o datos de usuario.
+
+36-Seguridad activa, son medidas preventivas y evitan grandes daños en los sistemas informáticos, se consideran acciones previas a un ataque.
+
+37-Seguridad pasiva, son correctivas, minimizan el impacto y los efectos causados por accidentes, es decir se consideran medidas o acciones posteriores a un ataque o incidente.
+
+38- Las copias de seguridad o backup, son réplicas de datos que nos permiten recuperar la información original en caso de ser necesario.
+
+39-Completa, es una copia de seguridad total de todos los archivos.
+
+40-Incremental, se hace una copia de seguridad solo de los archivos que han cambiado desde la última copia de seguridad realizada.
+
+41-Diferencial, es similar a la incremental pero realiza una copia de todos los archivos que han cambiado desde la última copia de seguridad total.
+
+42-Centro de procesamiento de datos (CPD), es un edificio o sala de gran tamaño usada para mantener en él una gran cantidad de equipamiento informático y en general electrónico.
+
+43-Biometría, es la parte de la biología que estudia en forma cuantitativa la variabilidad individual de los seres vivos mediante estadistica, en informatica es una tecnología que realiza mediciones en forma electrónica, guarda y compara características únicas para la identificación de personas.
+
+44-Sistema de alimentacion ininterrumpida (SAI),es un dispositivo que puede proporcionar energía eléctrica tras un corte de suministro eléctrico a todos los dispositivos que tenga conectados.
+
+45-Ataque de fuerza bruta, se intenta recuperar una clave probando todas las combinaciones posibles hasta encontrar aquella que permite el acceso.
+
+46-Ataque de diccionario: intentar averiguar una clave probando todas las palabras de un diccionario o conjunto de palabras comunes.
+
+47-Una vulnerabilidad, es una debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información.
+
+48-Ladrones de información (infostealers), son todos los tipos de códigos maliciosos que roban información del equipo infectado.
+
+49-Código delictivo (crimeware), son todos los programas que realizan una acción delictiva en el equipo, básicamente con fines lucrativos.
+
+50-Greyware (o grayware), todas las aplicaciones que realizan alguna acción que no es, al menos de  forma directa, dañina, tan solo molesta o no deseable.
+
+51-Cookies, son pequeños ficheros de texto que se crean en carpetas temporales del navegador al visitar páginas web, almacenan diversa información que, por lo general, facilitan la navegación del usuario.
+
+52-Keylogger, es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que se realizan en el teclado, para posteriormente memorizarlas en un fichero o enviarlas a través de internet.
+
+53-Antivirus, programa informático específicamente diseñado para detectar, bloquear y eliminar códigos maliciosos.
+
+54-Spyware, es un malware que recopila información de una computadora y después transmite esta información a una entidad externa.
+
+55-Criptografia, es la técnica que protege documentos y datos a través de la utilización de cifras o códigos.
+
+56-Sustitución, en criptografia, supone el cambio de significado de los elementos básicos del mensaje, las letras, los dígitos o los símbolos.
+
+57-Transposición: en criptografia, supone una reordenación de los mismos, pero los elementos básicos no se modifican. 
+
+58-Algoritmo simetrico, los algoritmos que usan una única clave tanto en el proceso de cifrado como en el de descifrado.
+
+59-Algoritmo asimetrico, los que emplean una clave para cifrar mensajes y una clave distinta para descifrarlos.
+
+60-Clave privada: es una clave custodiada por su propietario y no se dará a conocer a ningún otro.
+
+61-Clave pública: una clave conocida por todos los usuarios.
+
+62-Certificado digital, es un archivo que puede emplear un software para firmar digitalmente archivos y mensajes por ejemplo de correo electrónico, en los cuales puede verificarse la identidad del firmante.
